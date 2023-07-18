@@ -1,0 +1,12 @@
+p{
+    color: black;
+    font-size: large;
+    margin-bottom: 2px;
+}
+
+.submit-button{
+    margin-top: 20px;
+    background-color: white; 
+    color: green;
+    font-size: large;
+}
