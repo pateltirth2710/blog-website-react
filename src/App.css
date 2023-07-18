@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@500&family=Rubik:wght@300&display=swap');
+
+.App{
+  align-content: center;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color : yellowgreen;
+}
+
+.App h1{
+  color : yellowgreen;
+}
+
+.App .tagline{
+  color: green;
+}
+
+button{
+  background-color: white; 
+  color: green;
+}

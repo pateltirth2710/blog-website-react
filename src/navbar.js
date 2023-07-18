@@ -1,10 +1,10 @@
 const NavBar = () => {
     return ( 
     <div className="navbar">
-        <p>Add New Blog</p>
-        <p>Current Blogs</p>
+        <button>Add New Blog</button>
+        <p className="tagline">A directory of wonderful ideas</p>
     </div> 
-);
+    );
 }
  
 export default NavBar;
