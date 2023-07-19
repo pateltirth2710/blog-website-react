@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './App.css';
+import '../styles/App.css'
 import AddBlog from './add-blog';
 import BlogList from './blog-list';
 import NavBar from './navbar';

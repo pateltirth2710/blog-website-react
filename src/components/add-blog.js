@@ -1,4 +1,4 @@
-import './add-blog.css';
+import '../styles/add-blog.css';
 
 const AddBlog = () => {
     return (  
